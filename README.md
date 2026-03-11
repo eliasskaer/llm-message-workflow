@@ -73,7 +73,7 @@ An intelligent message classification and routing system powered by LLM (Large L
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/llm-message-workflow.git
+git clone https://github.com/eliasskaer/llm-message-workflow.git
 cd llm-message-workflow
 ```
 
