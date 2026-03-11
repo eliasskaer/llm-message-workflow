@@ -1,0 +1,39 @@
+{
+  "name": "llm-message-workflow",
+  "version": "1.0.0",
+  "description": "LLM-powered message classification and routing system with intelligent escalation",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/llm-message-workflow.git"
+  },
+  "keywords": [
+    "llm",
+    "classification",
+    "routing",
+    "workflow",
+    "openai",
+    "gpt-4",
+    "message-processing",
+    "customer-support",
+    "escalation",
+    "email-automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/llm-message-workflow/issues"
+  },
+  "homepage": "https://github.com/yourusername/llm-message-workflow#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "googleapis": "^128.0.0",
+    "mailparser": "^3.9.4",
+    "openai": "^4.20.1"
+  }
+}

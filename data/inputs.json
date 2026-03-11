@@ -1,0 +1,32 @@
+[
+  {
+    "id": "request_001",
+    "source": "Email",
+    "content": "Hi, I tried logging in this morning and keep getting a 403 error. My account is arcvault.io/user/jsmith. This started after your update last Tuesday.",
+    "timestamp": "2026-03-10T09:15:00Z"
+  },
+  {
+    "id": "request_002",
+    "source": "Web Form",
+    "content": "We'd love to see a bulk export feature for our audit logs. We're a compliance-heavy org and this would save us hours every month.",
+    "timestamp": "2026-03-10T10:30:00Z"
+  },
+  {
+    "id": "request_003",
+    "source": "Support Portal",
+    "content": "Invoice #8821 shows a charge of $1,240 but our contract rate is $980/month. Can someone look into this?",
+    "timestamp": "2026-03-10T11:45:00Z"
+  },
+  {
+    "id": "request_004",
+    "source": "Email",
+    "content": "I'm not sure if this is the right place to ask, but is there a way to set up SSO with Okta? We're evaluating switching our auth provider.",
+    "timestamp": "2026-03-10T13:00:00Z"
+  },
+  {
+    "id": "request_005",
+    "source": "Web Form",
+    "content": "Your dashboard stopped loading for us around 2pm EST. Checked our end — it's definitely on yours. Multiple users affected.",
+    "timestamp": "2026-03-10T14:20:00Z"
+  }
+]
